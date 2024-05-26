@@ -94,13 +94,13 @@ header .song-side .popular-artists .item li img{
     position: relative;
     width: 420px;
     height: 2px;
-    background: rgb(105, 105, 170, .1);
+    background: #040404;
     margin: 0px 20px 0px 10px;
 }
 
 .bar2{
     position: absolute;
-    background: #36e2ec;
+    background: #01B84A;
     width: 0%;
     height: 100%;
     top: 0;
@@ -110,7 +110,7 @@ header .song-side .popular-artists .item li img{
     position: absolute;
     width: 5px;
     height: 5px;
-    background: #36e2ec;
+    background: #01B84A;
     border-radius: 50%;
     left: 0%;
     top:-1.5px;
@@ -121,11 +121,11 @@ header .song-side .popular-artists .item li img{
     position: absolute;
     width: 15px;
     height: 15px;
-    border: 1px solid #36e2ec;
+    border: 1px solid #01B84A;
     border-radius: 50%;
     left: -5.5px;
     top: -6px;
-    box-shadow: inset 0px 0px 3px #36e2ec;
+    box-shadow: inset 0px 0px 3px #01B84A;
 }
 .inputt{
     position: absolute;
@@ -168,7 +168,7 @@ header .song-side .popular-artists .item li img{
 
 .vol .vol_bar{
     position: absolute;
-    background: #36e2ec;
+    background: #01B84A;
     width: 100px;
     height: 100%;
     top: 0;
@@ -179,7 +179,7 @@ header .song-side .popular-artists .item li img{
     position: absolute;
     width: 5px;
     height: 5px;
-    background: #36e2ec;
+    background: #01B84A;
     border-radius: 50%;
     left: 100%;
     top:-1.5px;
@@ -191,11 +191,11 @@ header .song-side .popular-artists .item li img{
     position: absolute;
     width: 15px;
     height: 15px;
-    border: 1px solid #36e2ec;
+    border: 1px solid #01B84A;
     border-radius: 50%;
     left: -5.5px;
     top: -6px;
-    box-shadow: inset 0px 0px 3px #36e2ec;
+    box-shadow: inset 0px 0px 3px #01B84A;
 }
 .hide-scrollbar::-webkit-scrollbar{
     display:none;
